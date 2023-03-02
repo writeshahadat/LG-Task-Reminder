@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="com_auth0_client_id">833279680968-n570psdgh9d5goc7utoflbbblefkpdm9.apps.googleusercontent.com</string>
+    <string name="com_auth0_domain">https://accounts.google.com/o/oauth2/auth</string>
+    <string name="hint_signed_in_as">Account Name</string>
+    <string name="calendar_read_write_rationale">We Need Calendar Access to Manage the Events from your Calendar.</string>
+    <string name="rationale_ask_ok">OK</string>
+    <string name="rationale_ask_cancel">Cancel</string>
+</resources>

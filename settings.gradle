@@ -1,0 +1,2 @@
+rootProject.name = "Task Reminder"
+include ':app', ':calendarprovider'
